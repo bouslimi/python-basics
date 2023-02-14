@@ -4,12 +4,16 @@
 
 # name: str = "Amine"
 name = "Amine"
+
 # age: int = 30
 age = 30
+
 # PI: float = 3.14
 PI = 3.14
+
 # isAdult: bool = True
 is_adult = True
+
 # hobbies: list = ["Travel", "Sport", "Reading"]
 hobbies = ["Travel", "Sport", "Reading"]
 
